@@ -1,0 +1,63 @@
+
+header {
+	width: 1000px;
+	height: 65px;
+	background-color: rgb(221, 221, 221);
+	margin-left: 25px;
+}
+header h1 {
+	margin-left: 10px;
+	margin-top: 10px;
+	padding-top: 10px;
+}
+
+p {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+a {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#site-wrap {
+	width: 1050px;
+	height: 500px;
+	background-color: rgb(167, 160, 154);
+}
+
+#tab {
+	width: 1000px;
+	margin-top: inherit;
+	background-color: rgb(204, 153, 152);
+	height: 35px;
+	margin-left: 25px;
+}
+
+#tab a {
+	padding-top: 10px;
+	margin-left: 10px;
+}
+
+#left {
+	float: left;
+	position: relative;
+	background-color: rgb(154, 204, 153);
+	width: 700px;
+	margin-left: 25px
+}
+#left h2 {
+	padding-left: 10px;
+}
+
+#right {
+	float: right;
+	position: relative;
+	background-color: rgb(153, 153, 205);
+	width: 300px;
+	margin-right: 25px;
+}
+#right h2 {
+	padding-left: 10px;
+}
